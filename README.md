@@ -35,15 +35,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Test the project
-# Test all the files
+### Test all the files
 npm run test
 
-# Test a specific file
+### Test a specific file
 npm run test fileName.tsx
 the command of running the tests of homepage is
 npm run test Home.test.tsx
 
-# Test the coverage
+### Test the coverage
 npm run test:coverage
 
 
