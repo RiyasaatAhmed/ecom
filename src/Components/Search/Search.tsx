@@ -13,7 +13,7 @@ const Search = ({ setSearchValue: SearchValueHandler }: SearchPropsType) => {
 
   return (
     <section style={{ padding: "50px 0px" }}>
-      <label htmlFor="search"> Search </label>
+      <label htmlFor="search"> Search Box </label>
       <input
         id="search"
         type="text"
